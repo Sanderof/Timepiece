@@ -18,7 +18,7 @@ I do not own any rights to the audio files!
 # How to run the game
 1. Download node.js on your computer (if not already done)
 
-2. Clone the repository with the terminal comman 'git clone <insert respository https-address here>'
+2. Clone the repository with the terminal command 'git clone https://github.com/Sanderof/Timepiece.git'
 
 3. cd into the folder TimepieceV6 (same folder as the file 'package.json') with the command 'cd Timepiece/TimepieceV6'
 
