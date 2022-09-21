@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #171a21;
+}
+
+#canvasWrapper {
+  position: relative;
+  width: 736px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+#barCanvas {
+  position: absolute;
+  height: 92px;
+  width: 736px;
+  margin: 0;
+  background-color: #171a21;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px 2px 0 2px;
+  image-rendering: pixelated;
+  image-rendering: -webkit-crisp-edges;
+  cursor: default;
+}
+
+#canvas {
+  position: absolute;
+  height: 460px;
+  width: 736px;
+  border-color: black;
+  border-style: solid;
+  border-width: 0 2px 2px 2px;
+  background-color: white;
+  image-rendering: pixelated;
+  image-rendering: -webkit-crisp-edges;
+  margin: 0;
+  margin-top: 94px;
+  cursor: default;
+}

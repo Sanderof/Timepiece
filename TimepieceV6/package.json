@@ -1,0 +1,22 @@
+{
+  "name": "timepiecev4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "serve": "^10.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

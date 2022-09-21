@@ -1,0 +1,37 @@
+[
+  {
+    "name": "English",
+    "mainMenu":   ["Timepiece", "Start Game", "Create Map", "Languages", "Maps", "Choose language", "Return"],
+    "mapCreator": ["Save Map", "Name the map...", "Cancel", "Save", "Options", "Chunks", "Height"],
+    "game": {
+      "menuBar": ["Level:"],
+      "menu":    ["Game Menu", "Resume", "Restart", "Quit"],
+      "textBox": [
+                  "Hello, and welcome to Timepiece! As this is your first time playing, a quick tutorial is in order.",
+                  "In order to move left or right, you have to press 'A' or 'D' respectively. 'Spacebar' is for jumping, and 'O' for attacking. To perform an aerial attack, simply press 'O' in the air. To climb up or down a ladder, you must press 'W' or 'S'.",
+                  "Throughout the map, you can pick up gems, health or weapons. You are able to carry one melee weapon and one long range weapon at the time. To switch between the long range, melee, and fists, press '1', '2', and '3' respectively.",
+                  "Good luck on your adventures!"
+                 ]
+    }
+  },
+  {
+    "name": "Français",
+    "mainMenu": ["L'Horloge", "Commencer le Jeu", "Fabriquer une Carte", "Langues", "Cartes", "Choisir la langue", "Retour"],
+    "mapCreator": ["Sauvegarder la Carte", "Donnez un nom à la carte...", "Supprimer", "Sauvegarder", "Options", "Morceaux", "Haut"],
+    "game": {
+      "menuBar": ["Niveau:"],
+      "menu":    ["Menu du Jeu", "Reprendre", "Recommencer", "Quitter"],
+      "textBox": ["Hello there! I'm Vincenzo."]
+    }
+  },
+  {
+    "name": "Norsk",
+    "mainMenu": ["Tidsuret", "Start Spillet", "Konstruer Bane", "Språk", "Baner", "Velg språk", "Tilbake"],
+    "mapCreator": ["Lagre Banekart", "Gi banekartet navn...", "Avbryt", "Lagre", "Innstillinger", "Biter", "Høyde"],
+    "game": {
+      "menuBar": ["Nivå:"],
+      "menu":    ["Spillmeny", "Fortsett", "Begynn på nytt", "Avslutt"],
+      "textBox": ["Hello there! I'm Vincenzo."]
+    }
+  }
+]
